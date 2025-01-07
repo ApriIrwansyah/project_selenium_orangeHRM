@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="1" time="0.516" timestamp="2025-01-07T11:13:22.358977+07:00" hostname="DESKTOP-08F6S52"><testcase classname="" name="test_admin_login" time="0.000"><error message="collection failure">..\.venv\Lib\site-packages\_pytest\python.py:493: in importtestmodule
+    mod = import_path(
+..\.venv\Lib\site-packages\_pytest\pathlib.py:587: in import_path
+    importlib.import_module(module_name)
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\importlib\__init__.py:126: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+&lt;frozen importlib._bootstrap&gt;:1204: in _gcd_import
+    ???
+&lt;frozen importlib._bootstrap&gt;:1176: in _find_and_load
+    ???
+&lt;frozen importlib._bootstrap&gt;:1147: in _find_and_load_unlocked
+    ???
+&lt;frozen importlib._bootstrap&gt;:690: in _load_unlocked
+    ???
+..\.venv\Lib\site-packages\_pytest\assertion\rewrite.py:175: in exec_module
+    source_stat, co = _rewrite_test(fn, self.config)
+..\.venv\Lib\site-packages\_pytest\assertion\rewrite.py:355: in _rewrite_test
+    tree = ast.parse(source, filename=strfn)
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\ast.py:50: in parse
+    return compile(source, filename, mode, flags,
+E     File "D:\PROGRAMMER_DAN_DESIGN\Phyton\PYTHON\QTOMATION_POM_PYTEST\test-cases\test_admin_login.py", line 10
+E       &lt;p&gt;Report generated on 07-Jan-2025 at 11:11:47 by &lt;a href="https://pypi.python.org/pypi/pytest-html"&gt;pytest-html&lt;/a&gt;
+E                              ^
+E   SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers</error></testcase></testsuite></testsuites>

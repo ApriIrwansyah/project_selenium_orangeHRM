@@ -1,0 +1,149 @@
+2024-12-19 09:48:52:INFO:**********Test 01 - Admin Login**********
+2024-12-19 09:48:52:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 09:48:56:INFO:**********Verifikasi test_title berhasil**********
+2024-12-19 09:53:14:INFO:**********test_admin_login_invalid**********
+2024-12-19 09:53:22:INFO:**********Verifikasi test_admin_login_invalid**********
+2024-12-19 10:55:04:INFO:**********Test 01 - Admin Login**********
+2024-12-19 10:55:04:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 10:55:07:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:18:28:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:18:28:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:18:31:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:20:40:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:20:40:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:20:43:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:20:58:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:20:58:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:21:01:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:21:10:WARNING:The geckodriver version (0.34.0) detected in PATH at C:\Users\admin\AppData\Roaming\npm\geckodriver.cmd might not be compatible with the detected firefox version (133.0.3.387); currently, geckodriver 0.35.0 is recommended for firefox 133.*, so it is advised to delete the driver in PATH and retry
+2024-12-19 11:21:16:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:21:16:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:21:19:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:21:34:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:21:34:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:21:37:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:24:15:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:24:15:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:24:19:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:32:23:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:32:23:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:32:26:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:32:34:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:32:34:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:32:38:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:42:52:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:42:52:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:42:55:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:43:46:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:43:46:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:43:49:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:44:00:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:44:00:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:44:03:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:59:45:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:59:45:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 11:59:48:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 11:59:59:INFO:**********Test 01 - Admin Login**********
+2024-12-19 11:59:59:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:00:02:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:00:24:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:00:24:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:00:27:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:36:38:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:36:38:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:36:42:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:40:28:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:40:28:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:40:31:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:41:56:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:41:56:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:42:00:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:44:08:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:44:08:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:44:11:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-19 12:45:51:INFO:**********Test 01 - Admin Login**********
+2024-12-19 12:45:51:INFO:**********Verifikasi halaman login admin**********
+2024-12-19 12:45:54:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 00:44:48:INFO:**********Test 01 - Admin Login**********
+2024-12-20 00:44:48:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 00:44:52:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:48:07:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:48:07:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:48:10:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:48:12:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:48:23:INFO:test data is failed
+2024-12-20 10:49:12:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:49:12:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:49:15:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:49:17:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:49:28:INFO:test data is failed
+2024-12-20 10:49:32:INFO:test data is failed
+2024-12-20 10:49:38:INFO:test data is passed
+2024-12-20 10:49:38:INFO:Test Admin data driven test is failed
+2024-12-20 10:51:02:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:51:02:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:51:06:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:51:08:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:51:18:INFO:test data is failed
+2024-12-20 10:51:22:INFO:test data is failed
+2024-12-20 10:51:28:INFO:test data is passed
+2024-12-20 10:51:28:INFO:Test Admin data driven test is failed
+2024-12-20 10:52:15:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:52:15:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:52:19:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:52:21:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:52:31:INFO:test data is failed
+2024-12-20 10:52:36:INFO:test data is failed
+2024-12-20 10:52:40:INFO:test data is passed
+2024-12-20 10:52:40:INFO:Test Admin data driven test is failed
+2024-12-20 10:53:32:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:53:32:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:53:35:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:53:38:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:53:49:INFO:test data is failed
+2024-12-20 10:53:53:INFO:test data is failed
+2024-12-20 10:53:59:INFO:test data is passed
+2024-12-20 10:54:31:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:54:31:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:54:35:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:54:37:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:54:48:INFO:test data is failed
+2024-12-20 10:54:53:INFO:test data is failed
+2024-12-20 10:54:58:INFO:test data is passed
+2024-12-20 10:54:58:INFO:Test Admin data driven test is failed
+2024-12-20 10:58:44:INFO:**********Test 01 - Admin Login**********
+2024-12-20 10:58:44:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 10:58:48:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 10:58:50:INFO:**********Test_admin_login_valid**********
+2024-12-20 10:59:00:INFO:test data is failed
+2024-12-20 10:59:04:INFO:test data is failed
+2024-12-20 10:59:10:INFO:test data is passed
+2024-12-20 10:59:11:INFO:Test Admin data driven test is failed
+2024-12-20 11:01:16:INFO:**********Test_admin_login_valid**********
+2024-12-20 11:01:16:INFO:**********Test 01 - Admin Login**********
+2024-12-20 11:01:16:INFO:**********Verifikasi halaman login admin**********
+2024-12-20 11:01:19:INFO:**********Verifikasi Pesan test_title berhasil**********
+2024-12-20 11:01:27:INFO:test data is failed
+2024-12-20 11:01:31:INFO:test data is failed
+2024-12-20 11:01:36:INFO:test data is passed
+2024-12-20 11:01:37:INFO:Test Admin data driven test is failed
+2025-01-07 11:06:53:INFO:**********Test 01 - Admin Login**********
+2025-01-07 11:06:53:INFO:**********Verifikasi halaman login admin**********
+2025-01-07 11:06:56:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-07 11:06:59:INFO:**********Test_admin_login_valid**********
+2025-01-07 11:07:08:INFO:**********Verifikasi Pesan Sukses Test_admin_login_valid**********
+2025-01-07 11:08:36:INFO:**********Test_admin_login_valid**********
+2025-01-07 11:08:36:INFO:**********Test 01 - Admin Login**********
+2025-01-07 11:08:36:INFO:**********Verifikasi halaman login admin**********
+2025-01-07 11:08:40:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-07 11:08:46:INFO:**********Verifikasi Pesan Sukses Test_admin_login_valid**********
+2025-01-07 11:10:32:INFO:**********Test 01 - Admin Login**********
+2025-01-07 11:10:32:INFO:**********Verifikasi halaman login admin**********
+2025-01-07 11:10:35:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-07 11:10:37:INFO:**********Test_admin_login_valid**********
+2025-01-07 11:10:46:INFO:**********Verifikasi Pesan Sukses Test_admin_login_valid**********
+2025-01-07 11:15:25:INFO:**********Test 01 - Admin Login**********
+2025-01-07 11:15:25:INFO:**********Verifikasi halaman login admin**********
+2025-01-07 11:15:30:INFO:**********Verifikasi Pesan test_title berhasil**********
+2025-01-07 11:15:32:INFO:**********Test_admin_login_valid**********
+2025-01-07 11:15:42:INFO:**********Verifikasi Pesan Sukses Test_admin_login_valid**********

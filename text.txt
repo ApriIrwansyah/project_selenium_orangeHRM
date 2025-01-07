@@ -1,0 +1,12 @@
+4. First Code ## folder/base-pages/login_admin_page | folder/test-cases/test_admin_login.py
+
+5. Readting common value from ini file ## 
+6. Adding logs # folder\utilities\custom_logger.py
+7. Running tests on desired browser ## 
+8. Parallel Tests Execution using pytest-xdist ##
+9. Generating html test reports # folder/test-cases/conftest.py -
+10. Data Driven Testing | menggunakan file excel ## folder/utilities/excel_utils.py ||| folder\test-cases\test_admin_login_datadriven.py
+11. Adding MoreTests (Add New Customer) ## folder\base_pages\add_pim_page.py || folder\test-cases\test_add_pim.py --  BS
+12. Adding MoreTests (Search Customer) ## folder\base_pages\search_pim_page.py || folder\test-cases\test_search_pim.py -- BS
+13. Grouping tests with markers ## older/test-cases/test_admin_login.py || older/test-cases/test_search_pim.py || folder/test-cases/test_admin_login_datadriven.py || folder/test-cases/test_add_pim
+14. Running Tests using batch file ## 
